@@ -20,4 +20,4 @@ To look at data for one school district, do something like this (71 is Santa Fe 
 
 then,
 
-   ```sum(scores$flagged_t95[sfIdx])/sum(sfIdx)```
+   sum(scores$flagged_t95[sfIdx])/sum(sfIdx)
